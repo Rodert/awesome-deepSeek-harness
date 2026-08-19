@@ -6,6 +6,8 @@
 
 这个列表由 GitHub 项目数据自动维护，同时保留人工补充的中文说明。欢迎提交项目或修正分类。
 
+在线浏览：[GitHub Pages](https://rodert.github.io/awesome-deepSeek-harness/)
+
 ## 目录
 
 - [插件](#plugins)
