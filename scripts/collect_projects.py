@@ -51,7 +51,11 @@ def github_request(path: str, token: str | None) -> dict[str, Any]:
 
 def classify(repo: dict[str, Any]) -> str:
     text = " ".join(
-        [repo.get("name", ""), repo.get("description", ""), " ".join(repo.get("topics", []))]
+        [
+            str(repo.get("name") or ""),
+            str(repo.get("description") or ""),
+            " ".join(str(topic) for topic in (repo.get("topics") or []) if topic),
+        ]
     ).lower()
     if any(word in text for word in ("market", "marketplace", "registry")):
         return "ecosystem"
@@ -69,7 +73,12 @@ def classify(repo: dict[str, Any]) -> str:
 def is_relevant(repo: dict[str, Any]) -> bool:
     """Reject search false positives while allowing projects named dsh-*."""
     text = " ".join(
-        [repo.get("name", ""), repo.get("full_name", ""), repo.get("description", ""), " ".join(repo.get("topics", []))]
+        [
+            str(repo.get("name") or ""),
+            str(repo.get("full_name") or ""),
+            str(repo.get("description") or ""),
+            " ".join(str(topic) for topic in (repo.get("topics") or []) if topic),
+        ]
     ).lower()
     return any(keyword in text for keyword in ("deepseek", "deep-seek", "deepseek harness", "dsh-", "dsh_", "deep whale"))
 
