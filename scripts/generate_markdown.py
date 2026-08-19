@@ -88,6 +88,12 @@ def stars(value: int | None, locale: str = "zh-CN") -> str:
     return f"⭐ {value:,}" if isinstance(value, int) else f"⭐ {labels['pending']}"
 
 
+def description_for(project: dict, locale: str, fallback: str) -> str:
+    if locale in ("zh-CN", "zh-TW"):
+        return project.get("description_zh") or project.get("description") or fallback
+    return project.get("description") or fallback
+
+
 def render(data: dict, locale: str = "zh-CN") -> str:
     labels = LANGUAGES.get(locale, LANGUAGES["en"])
     projects = data.get("projects", [])
@@ -136,7 +142,7 @@ def render(data: dict, locale: str = "zh-CN") -> str:
         lines += [f"<a id=\"{CATEGORY_ANCHORS[category]}\"></a>", f"## {labels['categories'][category]}", "", f"*{labels['category_desc'][category]}*", ""]
         for index, project in enumerate(items, 1):
             title = project.get("name") or project.get("full_name")
-            description = (project.get("description_zh") if locale in ("zh-CN", "zh-TW") else project.get("description")) or labels["fallback"]
+            description = description_for(project, locale, labels["fallback"])
             meta = " · ".join(filter(None, [stars(project.get("stars"), locale), project.get("language") or None, f"{labels['updated_at']} {date(project.get('updated_at'), locale)}" ]))
             lines += [f"### {index}. [{title}]({project['url']})", "", meta, "", description.strip(), ""]
             if project.get("topics"):
@@ -170,7 +176,7 @@ def render_html(data: dict, locale: str = "zh-CN") -> str:
         for project in items:
             title = html.escape(project.get("name") or project.get("full_name", ""))
             url = html.escape(project.get("url", ""), quote=True)
-            description = html.escape((project.get("description_zh") if locale in ("zh-CN", "zh-TW") else project.get("description")) or labels["fallback"])
+            description = html.escape(description_for(project, locale, labels["fallback"]))
             stats = " · ".join(filter(None, [stars(project.get("stars"), locale), project.get("language") or None, f"{labels['updated_at']} {date(project.get('updated_at'), locale)}" ]))
             entries.append(f'<article><h3><a href="{url}">{title}</a></h3><p class="meta">{html.escape(stats)}</p><p>{description}</p></article>')
         cards.append(f'<section id="{CATEGORY_ANCHORS[category]}"><h2>{html.escape(labels["categories"][category])}</h2><p class="muted">{html.escape(labels["category_desc"][category])}</p>{"".join(entries)}</section>')
