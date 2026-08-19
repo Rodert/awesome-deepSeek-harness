@@ -19,7 +19,7 @@
 - [主題與外觀](#themes)
 - [其他專案](#other)
 
-> 專案數：**111** · 最後更新：**2026-08-19**
+> 專案數：**122** · 最後更新：**2026-08-19**
 
 ## 自動更新
 
@@ -37,7 +37,7 @@ python scripts/generate_markdown.py
 
 ### 1. [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
 
-⭐ 165,210 · TypeScript · 更新於 2026-08-19
+⭐ 165,271 · TypeScript · 更新於 2026-08-19
 
 尚無專案簡介。
 
@@ -45,7 +45,7 @@ python scripts/generate_markdown.py
 
 ### 2. [CowAgent](https://github.com/zhayujie/CowAgent)
 
-⭐ 46,567 · Python · 更新於 2026-08-19
+⭐ 46,566 · Python · 更新於 2026-08-19
 
 尚無專案簡介。
 
@@ -53,7 +53,7 @@ python scripts/generate_markdown.py
 
 ### 3. [colleague-skill](https://github.com/titanwings/colleague-skill)
 
-⭐ 23,508 · Python · 更新於 2026-08-19
+⭐ 23,510 · Python · 更新於 2026-08-19
 
 尚無專案簡介。
 
@@ -69,7 +69,7 @@ python scripts/generate_markdown.py
 
 ### 5. [archify](https://github.com/tt-a1i/archify)
 
-⭐ 14,396 · HTML · 更新於 2026-08-19
+⭐ 14,400 · HTML · 更新於 2026-08-19
 
 尚無專案簡介。
 
@@ -77,7 +77,7 @@ python scripts/generate_markdown.py
 
 ### 6. [learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering)
 
-⭐ 12,350 · TypeScript · 更新於 2026-08-19
+⭐ 12,360 · TypeScript · 更新於 2026-08-19
 
 尚無專案簡介。
 
@@ -85,7 +85,7 @@ python scripts/generate_markdown.py
 
 ### 7. [MemOS](https://github.com/MemTensor/MemOS)
 
-⭐ 10,796 · TypeScript · 更新於 2026-08-19
+⭐ 10,797 · TypeScript · 更新於 2026-08-19
 
 尚無專案簡介。
 
@@ -93,7 +93,7 @@ python scripts/generate_markdown.py
 
 ### 8. [awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)
 
-⭐ 9,844 · Python · 更新於 2026-08-19
+⭐ 9,854 · Python · 更新於 2026-08-19
 
 尚無專案簡介。
 
@@ -123,7 +123,7 @@ python scripts/generate_markdown.py
 
 ### 12. [petdex](https://github.com/crafter-station/petdex)
 
-⭐ 3,914 · TypeScript · 更新於 2026-08-19
+⭐ 3,916 · TypeScript · 更新於 2026-08-19
 
 尚無專案簡介。
 
@@ -131,7 +131,7 @@ python scripts/generate_markdown.py
 
 ### 13. [dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard)
 
-⭐ 3,621 · JavaScript · 更新於 2026-08-19
+⭐ 3,622 · JavaScript · 更新於 2026-08-19
 
 尚無專案簡介。
 
@@ -163,7 +163,7 @@ python scripts/generate_markdown.py
 
 ### 17. [J-Space-Cognition-Suite-V3.6](https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.6)
 
-⭐ 2,551 · Python · 更新於 2026-08-19
+⭐ 2,560 · Python · 更新於 2026-08-19
 
 尚無專案簡介。
 
@@ -187,7 +187,7 @@ python scripts/generate_markdown.py
 
 ### 20. [BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-⭐ 1,172 · TypeScript · 更新於 2026-08-19
+⭐ 1,173 · TypeScript · 更新於 2026-08-19
 
 尚無專案簡介。
 
@@ -203,13 +203,13 @@ python scripts/generate_markdown.py
 
 ### 22. [deepseek-harness-orange-book](https://github.com/alchaincyf/deepseek-harness-orange-book)
 
-⭐ 1,063 · HTML · 更新於 2026-08-19
+⭐ 1,064 · HTML · 更新於 2026-08-19
 
 尚無專案簡介。
 
 ### 23. [DeepSeek-V4-J-Space-Capability-Realization-Report](https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report)
 
-⭐ 1,016 · N/A · 更新於 2026-08-19
+⭐ 1,017 · N/A · 更新於 2026-08-19
 
 尚無專案簡介。
 
@@ -249,7 +249,7 @@ python scripts/generate_markdown.py
 
 ### 28. [dsh-handbook](https://github.com/Electricitysheep/dsh-handbook)
 
-⭐ 523 · HTML · 更新於 2026-08-19
+⭐ 526 · HTML · 更新於 2026-08-19
 
 尚無專案簡介。
 
@@ -257,7 +257,7 @@ python scripts/generate_markdown.py
 
 ### 29. [dsh-context](https://github.com/bowenliang123/dsh-context)
 
-⭐ 430 · TypeScript · 更新於 2026-08-19
+⭐ 444 · TypeScript · 更新於 2026-08-19
 
 尚無專案簡介。
 
@@ -265,7 +265,7 @@ python scripts/generate_markdown.py
 
 ### 30. [dsh-at-file](https://github.com/omdsh-dev/dsh-at-file)
 
-⭐ 409 · JavaScript · 更新於 2026-08-19
+⭐ 410 · JavaScript · 更新於 2026-08-19
 
 为 DeepSeek Harness 增加 @文件能力，可引用本地 PDF、Word、PPT、图片和代码文件。
 
@@ -473,6 +473,74 @@ python scripts/generate_markdown.py
 
 標籤: `agent-rewind` `cordis-plugin` `deepseek-harness` `dsh` `dsh-plugin` `marisa-plugin` `restore-point` `turn-rewind`
 
+### 57. [dsh-usage-stats](https://github.com/Ychris12138/dsh-usage-stats)
+
+⭐ 84 · JavaScript · 更新於 2026-08-19
+
+尚無專案簡介。
+
+標籤: `deepseek` `deepseek-harness` `deepseek-harness-plugin` `deepseek-harness-plugin-dev` `deepseek-harness-plugins` `dsh` `dsh-plugin` `dsh-plugins`
+
+### 58. [dsh-infinite-gen-1](https://github.com/Minglink/dsh-infinite-gen-1)
+
+⭐ 83 · PowerShell · 更新於 2026-08-19
+
+尚無專案簡介。
+
+### 59. [dsh-demo-webrtc-examples](https://github.com/deepstreamIO/dsh-demo-webrtc-examples)
+
+⭐ 80 · JavaScript · 更新於 2026-05-18
+
+尚無專案簡介。
+
+### 60. [dsh-annotation](https://github.com/omdsh-dev/dsh-annotation)
+
+⭐ 78 · JavaScript · 更新於 2026-08-19
+
+尚無專案簡介。
+
+標籤: `dsh` `dsh-plugin`
+
+### 61. [hello-dsh](https://github.com/pingfanfan/hello-dsh)
+
+⭐ 78 · Python · 更新於 2026-08-19
+
+尚無專案簡介。
+
+標籤: `ai-agent` `chinese` `cordis` `deepseek` `deepseek-harness` `dsh` `dsh-plugin` `tutorial`
+
+### 62. [dsh-mobile-apk](https://github.com/kelai141/dsh-mobile-apk)
+
+⭐ 77 · JavaScript · 更新於 2026-08-19
+
+尚無專案簡介。
+
+標籤: `android` `dsh-plugin` `kotlin` `termux` `webview`
+
+### 63. [dsh-image-gen](https://github.com/shanliuling/dsh-image-gen)
+
+⭐ 76 · TypeScript · 更新於 2026-08-19
+
+尚無專案簡介。
+
+標籤: `ai-agent` `cordis` `deepseek` `deepseek-harness` `dsh-plugin` `gemini` `image-generation` `openai`
+
+### 64. [dsh-chat-import](https://github.com/Nwflower/dsh-chat-import)
+
+⭐ 75 · JavaScript · 更新於 2026-08-19
+
+尚無專案簡介。
+
+標籤: `agent` `ai-agents` `automation` `chatgpt` `claude-code` `codex` `cursor` `deepseek`
+
+### 65. [awesome-DSH-plugin](https://github.com/Alex-Yanggg/awesome-DSH-plugin)
+
+⭐ 73 · Python · 更新於 2026-08-19
+
+尚無專案簡介。
+
+標籤: `agents` `awesome` `awesome-list` `deepseek` `dsh-plugin` `plugins`
+
 ---
 
 <a id="integrations"></a>
@@ -482,7 +550,7 @@ python scripts/generate_markdown.py
 
 ### 1. [modlens](https://github.com/liustack/modlens)
 
-⭐ 3,237 · TypeScript · 更新於 2026-08-19
+⭐ 3,239 · TypeScript · 更新於 2026-08-19
 
 尚無專案簡介。
 
@@ -490,7 +558,7 @@ python scripts/generate_markdown.py
 
 ### 2. [agent-vision-toolkit](https://github.com/Anionex/agent-vision-toolkit)
 
-⭐ 1,063 · Python · 更新於 2026-08-19
+⭐ 1,064 · Python · 更新於 2026-08-19
 
 尚無專案簡介。
 
@@ -498,7 +566,7 @@ python scripts/generate_markdown.py
 
 ### 3. [dsh-vision-router](https://github.com/ysr666/dsh-vision-router)
 
-⭐ 819 · JavaScript · 更新於 2026-08-19
+⭐ 820 · JavaScript · 更新於 2026-08-19
 
 尚無專案簡介。
 
@@ -527,7 +595,7 @@ python scripts/generate_markdown.py
 
 ### 1. [open-design](https://github.com/nexu-io/open-design)
 
-⭐ 89,198 · TypeScript · 更新於 2026-08-19
+⭐ 89,201 · TypeScript · 更新於 2026-08-19
 
 尚無專案簡介。
 
@@ -535,7 +603,7 @@ python scripts/generate_markdown.py
 
 ### 2. [OmniRoute](https://github.com/diegosouzapw/OmniRoute)
 
-⭐ 50,890 · TypeScript · 更新於 2026-08-19
+⭐ 50,895 · TypeScript · 更新於 2026-08-19
 
 尚無專案簡介。
 
@@ -543,7 +611,7 @@ python scripts/generate_markdown.py
 
 ### 3. [voyager](https://github.com/Nagi-ovo/voyager)
 
-⭐ 19,678 · TypeScript · 更新於 2026-08-19
+⭐ 19,679 · TypeScript · 更新於 2026-08-19
 
 尚無專案簡介。
 
@@ -551,7 +619,7 @@ python scripts/generate_markdown.py
 
 ### 4. [deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)
 
-⭐ 14,769 · TypeScript · 更新於 2026-08-19
+⭐ 14,785 · TypeScript · 更新於 2026-08-19
 
 DeepSeek Harness 的桌面端，以传统桌面软件的方式使用 Harness。
 
@@ -559,7 +627,7 @@ DeepSeek Harness 的桌面端，以传统桌面软件的方式使用 Harness。
 
 ### 5. [yao](https://github.com/YaoApp/yao)
 
-⭐ 7,711 · Go · 更新於 2026-08-19
+⭐ 7,713 · Go · 更新於 2026-08-19
 
 尚無專案簡介。
 
@@ -575,7 +643,7 @@ DeepSeek Harness 的桌面端，以传统桌面软件的方式使用 Harness。
 
 ### 7. [EchoBird](https://github.com/edison7009/EchoBird)
 
-⭐ 3,083 · Rust · 更新於 2026-08-19
+⭐ 3,084 · Rust · 更新於 2026-08-19
 
 尚無專案簡介。
 
@@ -647,7 +715,7 @@ DeepSeek Harness 的桌面端，以传统桌面软件的方式使用 Harness。
 
 ### 16. [dsh_desktop](https://github.com/myYangyunfan/dsh_desktop)
 
-⭐ 484 · JavaScript · 更新於 2026-08-19
+⭐ 485 · JavaScript · 更新於 2026-08-19
 
 尚無專案簡介。
 
@@ -709,6 +777,14 @@ DeepSeek Harness 的桌面端，以传统桌面软件的方式使用 Harness。
 
 標籤: `android` `deepseek` `launcher` `llm` `proot` `shizuku` `webui`
 
+### 24. [dsh-skill-mcp-panel](https://github.com/Fishquito7/dsh-skill-mcp-panel)
+
+⭐ 75 · JavaScript · 更新於 2026-08-19
+
+尚無專案簡介。
+
+標籤: `deepseek` `dsh` `dsh-plugin` `mcp` `plugin` `skills`
+
 ---
 
 <a id="ecosystem"></a>
@@ -734,7 +810,7 @@ DeepSeek Harness 的桌面端，以传统桌面软件的方式使用 Harness。
 
 ### 3. [dsh-pocket](https://github.com/shaobeichen/dsh-pocket)
 
-⭐ 207 · JavaScript · 更新於 2026-08-19
+⭐ 208 · JavaScript · 更新於 2026-08-19
 
 尚無專案簡介。
 
@@ -797,7 +873,7 @@ DeepSeek Harness 的桌面端，以传统桌面软件的方式使用 Harness。
 
 ### 2. [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui)
 
-⭐ 4,812 · TypeScript · 更新於 2026-08-19
+⭐ 4,815 · TypeScript · 更新於 2026-08-19
 
 尚無專案簡介。
 
@@ -805,7 +881,7 @@ DeepSeek Harness 的桌面端，以传统桌面软件的方式使用 Harness。
 
 ### 3. [dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale)
 
-⭐ 1,441 · TypeScript · 更新於 2026-08-19
+⭐ 1,442 · TypeScript · 更新於 2026-08-19
 
 面向 DeepSeek Harness 的主题和皮肤项目，让 Agent 工作区更具个性。
 
@@ -813,7 +889,7 @@ DeepSeek Harness 的桌面端，以传统桌面软件的方式使用 Harness。
 
 ### 4. [Deepseek-Harness-EAC](https://github.com/zouyuxuan122/Deepseek-Harness-EAC)
 
-⭐ 927 · JavaScript · 更新於 2026-08-19
+⭐ 928 · JavaScript · 更新於 2026-08-19
 
 尚無專案簡介。
 
@@ -821,7 +897,7 @@ DeepSeek Harness 的桌面端，以传统桌面软件的方式使用 Harness。
 
 ### 5. [DSH-Transparent-UI-Plugin](https://github.com/WYH66666666/DSH-Transparent-UI-Plugin)
 
-⭐ 317 · JavaScript · 更新於 2026-08-19
+⭐ 318 · JavaScript · 更新於 2026-08-19
 
 尚無專案簡介。
 
@@ -844,7 +920,7 @@ DeepSeek Harness 的桌面端，以传统桌面软件的方式使用 Harness。
 
 ### 1. [ollama](https://github.com/ollama/ollama)
 
-⭐ 178,953 · Go · 更新於 2026-08-19
+⭐ 178,956 · Go · 更新於 2026-08-19
 
 尚無專案簡介。
 
@@ -852,7 +928,7 @@ DeepSeek Harness 的桌面端，以传统桌面软件的方式使用 Harness。
 
 ### 2. [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
 
-⭐ 104,339 · Python · 更新於 2026-08-19
+⭐ 104,340 · Python · 更新於 2026-08-19
 
 尚無專案簡介。
 
@@ -926,7 +1002,7 @@ DeepSeek Harness 的桌面端，以传统桌面软件的方式使用 Harness。
 
 ### 12. [codex-router](https://github.com/duolahypercho/codex-router)
 
-⭐ 2,526 · JavaScript · 更新於 2026-08-19
+⭐ 2,527 · JavaScript · 更新於 2026-08-19
 
 尚無專案簡介。
 
@@ -939,6 +1015,12 @@ DeepSeek Harness 的桌面端，以传统桌面软件的方式使用 Harness。
 尚無專案簡介。
 
 標籤: `claude` `deepseek` `deepwiki` `llm` `mistral` `openai` `openrouter` `rust`
+
+### 14. [myDshPresets](https://github.com/0liveiraaa/myDshPresets)
+
+⭐ 80 · JavaScript · 更新於 2026-08-19
+
+尚無專案簡介。
 
 ---
 

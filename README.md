@@ -37,7 +37,7 @@ python scripts/generate_markdown.py
 
 ### 1. [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
 
-⭐ 165,235 · TypeScript · 更新于 2026-08-19
+⭐ 165,271 · TypeScript · 更新于 2026-08-19
 
 暂无项目简介。
 
@@ -45,7 +45,7 @@ python scripts/generate_markdown.py
 
 ### 2. [CowAgent](https://github.com/zhayujie/CowAgent)
 
-⭐ 46,567 · Python · 更新于 2026-08-19
+⭐ 46,566 · Python · 更新于 2026-08-19
 
 暂无项目简介。
 
@@ -53,7 +53,7 @@ python scripts/generate_markdown.py
 
 ### 3. [colleague-skill](https://github.com/titanwings/colleague-skill)
 
-⭐ 23,508 · Python · 更新于 2026-08-19
+⭐ 23,510 · Python · 更新于 2026-08-19
 
 暂无项目简介。
 
@@ -69,7 +69,7 @@ python scripts/generate_markdown.py
 
 ### 5. [archify](https://github.com/tt-a1i/archify)
 
-⭐ 14,399 · HTML · 更新于 2026-08-19
+⭐ 14,400 · HTML · 更新于 2026-08-19
 
 暂无项目简介。
 
@@ -77,7 +77,7 @@ python scripts/generate_markdown.py
 
 ### 6. [learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering)
 
-⭐ 12,353 · TypeScript · 更新于 2026-08-19
+⭐ 12,360 · TypeScript · 更新于 2026-08-19
 
 暂无项目简介。
 
@@ -93,7 +93,7 @@ python scripts/generate_markdown.py
 
 ### 8. [awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)
 
-⭐ 9,848 · Python · 更新于 2026-08-19
+⭐ 9,854 · Python · 更新于 2026-08-19
 
 暂无项目简介。
 
@@ -123,7 +123,7 @@ python scripts/generate_markdown.py
 
 ### 12. [petdex](https://github.com/crafter-station/petdex)
 
-⭐ 3,914 · TypeScript · 更新于 2026-08-19
+⭐ 3,916 · TypeScript · 更新于 2026-08-19
 
 暂无项目简介。
 
@@ -163,7 +163,7 @@ python scripts/generate_markdown.py
 
 ### 17. [J-Space-Cognition-Suite-V3.6](https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.6)
 
-⭐ 2,554 · Python · 更新于 2026-08-19
+⭐ 2,560 · Python · 更新于 2026-08-19
 
 暂无项目简介。
 
@@ -187,7 +187,7 @@ python scripts/generate_markdown.py
 
 ### 20. [BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-⭐ 1,172 · TypeScript · 更新于 2026-08-19
+⭐ 1,173 · TypeScript · 更新于 2026-08-19
 
 暂无项目简介。
 
@@ -203,13 +203,13 @@ python scripts/generate_markdown.py
 
 ### 22. [deepseek-harness-orange-book](https://github.com/alchaincyf/deepseek-harness-orange-book)
 
-⭐ 1,063 · HTML · 更新于 2026-08-19
+⭐ 1,064 · HTML · 更新于 2026-08-19
 
 暂无项目简介。
 
 ### 23. [DeepSeek-V4-J-Space-Capability-Realization-Report](https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report)
 
-⭐ 1,016 · N/A · 更新于 2026-08-19
+⭐ 1,017 · N/A · 更新于 2026-08-19
 
 暂无项目简介。
 
@@ -249,7 +249,7 @@ python scripts/generate_markdown.py
 
 ### 28. [dsh-handbook](https://github.com/Electricitysheep/dsh-handbook)
 
-⭐ 525 · HTML · 更新于 2026-08-19
+⭐ 526 · HTML · 更新于 2026-08-19
 
 暂无项目简介。
 
@@ -257,7 +257,7 @@ python scripts/generate_markdown.py
 
 ### 29. [dsh-context](https://github.com/bowenliang123/dsh-context)
 
-⭐ 432 · TypeScript · 更新于 2026-08-19
+⭐ 444 · TypeScript · 更新于 2026-08-19
 
 暂无项目简介。
 
@@ -265,7 +265,7 @@ python scripts/generate_markdown.py
 
 ### 30. [dsh-at-file](https://github.com/omdsh-dev/dsh-at-file)
 
-⭐ 409 · JavaScript · 更新于 2026-08-19
+⭐ 410 · JavaScript · 更新于 2026-08-19
 
 为 DeepSeek Harness 增加 @文件能力，可引用本地 PDF、Word、PPT、图片和代码文件。
 
@@ -477,15 +477,15 @@ python scripts/generate_markdown.py
 
 ⭐ 84 · JavaScript · 更新于 2026-08-19
 
-Provider balances, subscription quotas, and token-usage analytics for the DeepSeek Harness Web GUI (dsh web).
+暂无项目简介。
 
-标签：`deepseek` `deepseek-harness` `deepseek-harness-plugin` `deepseek-harness-plugin-dev` `deepseek-harness-plugins` `dsh` `dsh-plugin` `dsh-plugins`
+标签: `deepseek` `deepseek-harness` `deepseek-harness-plugin` `deepseek-harness-plugin-dev` `deepseek-harness-plugins` `dsh` `dsh-plugin` `dsh-plugins`
 
 ### 58. [dsh-infinite-gen-1](https://github.com/Minglink/dsh-infinite-gen-1)
 
-⭐ 82 · PowerShell · 更新于 2026-08-19
+⭐ 83 · PowerShell · 更新于 2026-08-19
 
-DeepSeek 专用破甲插件「无限一代」dsh-infinite-gen-1 — armor-breaking plugin for DeepSeek，新一代全局破甲方案，求 Star 收藏 ⭐
+暂无项目简介。
 
 ### 59. [dsh-demo-webrtc-examples](https://github.com/deepstreamIO/dsh-demo-webrtc-examples)
 
@@ -497,49 +497,49 @@ DeepSeek 专用破甲插件「无限一代」dsh-infinite-gen-1 — armor-breaki
 
 ⭐ 78 · JavaScript · 更新于 2026-08-19
 
-DSH Web 选中批注插件：选文字→批注→回车随消息发送；气泡隐藏批注块（零闪烁）；回复按 Annotation N 逐条对照（可悬浮芯片）。官方 bundle，零核心改动
+暂无项目简介。
 
-标签：`dsh` `dsh-plugin`
+标签: `dsh` `dsh-plugin`
 
 ### 61. [hello-dsh](https://github.com/pingfanfan/hello-dsh)
 
 ⭐ 78 · Python · 更新于 2026-08-19
 
-从零开始，看懂 DeepSeek Harness 的「万物皆可插件」— 零基础插件开发教程（含 22 个中文技能实例）| Zero-to-plugin tutorial for DeepSeek Harness
+暂无项目简介。
 
-标签：`ai-agent` `chinese` `cordis` `deepseek` `deepseek-harness` `dsh` `dsh-plugin` `tutorial`
+标签: `ai-agent` `chinese` `cordis` `deepseek` `deepseek-harness` `dsh` `dsh-plugin` `tutorial`
 
 ### 62. [dsh-mobile-apk](https://github.com/kelai141/dsh-mobile-apk)
 
 ⭐ 77 · JavaScript · 更新于 2026-08-19
 
-dsh 安卓壳 APK——WebView UI + 内嵌 Termux 运行时快照（解压即跑）、SAF 目录桥、保活服务、看门狗、运行时在线更新。
+暂无项目简介。
 
-标签：`android` `dsh-plugin` `kotlin` `termux` `webview`
+标签: `android` `dsh-plugin` `kotlin` `termux` `webview`
 
 ### 63. [dsh-image-gen](https://github.com/shanliuling/dsh-image-gen)
 
 ⭐ 76 · TypeScript · 更新于 2026-08-19
 
-Generate images directly in DeepSeek Harness chats
+暂无项目简介。
 
-标签：`ai-agent` `cordis` `deepseek` `deepseek-harness` `dsh-plugin` `gemini` `image-generation` `openai`
+标签: `ai-agent` `cordis` `deepseek` `deepseek-harness` `dsh-plugin` `gemini` `image-generation` `openai`
 
 ### 64. [dsh-chat-import](https://github.com/Nwflower/dsh-chat-import)
 
 ⭐ 75 · JavaScript · 更新于 2026-08-19
 
-Import 14+ external agent chat histories (Claude Code, Codex, ChatGPT, Cursor, Gemini, Reasonix, opencode, ZCode, Grok Build, OpenClaw, Pi, Hermes, Kimi CLI, DSH) into DeepSeek Harness as resumable sessions — full-fidelity, reverse export/sync, bundle backup. | 从 Claude Code、Codex、Reasonix 等 Agent 工具导入历史消息到 DeepSeek Harness 并继续对话。
+暂无项目简介。
 
-标签：`agent` `ai-agents` `automation` `chatgpt` `claude-code` `codex` `cursor` `deepseek`
+标签: `agent` `ai-agents` `automation` `chatgpt` `claude-code` `codex` `cursor` `deepseek`
 
 ### 65. [awesome-DSH-plugin](https://github.com/Alex-Yanggg/awesome-DSH-plugin)
 
 ⭐ 73 · Python · 更新于 2026-08-19
 
-A meticulously curated list of useful plugins, extensions, tools and development resources built for DSH, covering productivity enhancement, functional expansion, debugging utilities and custom development modules.
+暂无项目简介。
 
-标签：`agents` `awesome` `awesome-list` `deepseek` `dsh-plugin` `plugins`
+标签: `agents` `awesome` `awesome-list` `deepseek` `dsh-plugin` `plugins`
 
 ---
 
@@ -550,7 +550,7 @@ A meticulously curated list of useful plugins, extensions, tools and development
 
 ### 1. [modlens](https://github.com/liustack/modlens)
 
-⭐ 3,238 · TypeScript · 更新于 2026-08-19
+⭐ 3,239 · TypeScript · 更新于 2026-08-19
 
 暂无项目简介。
 
@@ -558,7 +558,7 @@ A meticulously curated list of useful plugins, extensions, tools and development
 
 ### 2. [agent-vision-toolkit](https://github.com/Anionex/agent-vision-toolkit)
 
-⭐ 1,063 · Python · 更新于 2026-08-19
+⭐ 1,064 · Python · 更新于 2026-08-19
 
 暂无项目简介。
 
@@ -566,7 +566,7 @@ A meticulously curated list of useful plugins, extensions, tools and development
 
 ### 3. [dsh-vision-router](https://github.com/ysr666/dsh-vision-router)
 
-⭐ 819 · JavaScript · 更新于 2026-08-19
+⭐ 820 · JavaScript · 更新于 2026-08-19
 
 暂无项目简介。
 
@@ -595,7 +595,7 @@ A meticulously curated list of useful plugins, extensions, tools and development
 
 ### 1. [open-design](https://github.com/nexu-io/open-design)
 
-⭐ 89,202 · TypeScript · 更新于 2026-08-19
+⭐ 89,201 · TypeScript · 更新于 2026-08-19
 
 暂无项目简介。
 
@@ -603,7 +603,7 @@ A meticulously curated list of useful plugins, extensions, tools and development
 
 ### 2. [OmniRoute](https://github.com/diegosouzapw/OmniRoute)
 
-⭐ 50,891 · TypeScript · 更新于 2026-08-19
+⭐ 50,895 · TypeScript · 更新于 2026-08-19
 
 暂无项目简介。
 
@@ -619,7 +619,7 @@ A meticulously curated list of useful plugins, extensions, tools and development
 
 ### 4. [deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)
 
-⭐ 14,774 · TypeScript · 更新于 2026-08-19
+⭐ 14,785 · TypeScript · 更新于 2026-08-19
 
 DeepSeek Harness 的桌面端，以传统桌面软件的方式使用 Harness。
 
@@ -627,7 +627,7 @@ DeepSeek Harness 的桌面端，以传统桌面软件的方式使用 Harness。
 
 ### 5. [yao](https://github.com/YaoApp/yao)
 
-⭐ 7,711 · Go · 更新于 2026-08-19
+⭐ 7,713 · Go · 更新于 2026-08-19
 
 暂无项目简介。
 
@@ -643,7 +643,7 @@ DeepSeek Harness 的桌面端，以传统桌面软件的方式使用 Harness。
 
 ### 7. [EchoBird](https://github.com/edison7009/EchoBird)
 
-⭐ 3,083 · Rust · 更新于 2026-08-19
+⭐ 3,084 · Rust · 更新于 2026-08-19
 
 暂无项目简介。
 
@@ -747,7 +747,7 @@ DeepSeek Harness 的桌面端，以传统桌面软件的方式使用 Harness。
 
 ### 20. [dsh-pet](https://github.com/PC2005-cloud/dsh-pet)
 
-⭐ 194 · JavaScript · 更新于 2026-08-19
+⭐ 193 · JavaScript · 更新于 2026-08-19
 
 暂无项目简介。
 
@@ -781,9 +781,9 @@ DeepSeek Harness 的桌面端，以传统桌面软件的方式使用 Harness。
 
 ⭐ 75 · JavaScript · 更新于 2026-08-19
 
-DSH Web UI plugin: skill and MCP management（Web界面的skill/MCP管理工具）
+暂无项目简介。
 
-标签：`deepseek` `dsh` `dsh-plugin` `mcp` `plugin` `skills`
+标签: `deepseek` `dsh` `dsh-plugin` `mcp` `plugin` `skills`
 
 ---
 
@@ -810,7 +810,7 @@ DSH Web UI plugin: skill and MCP management（Web界面的skill/MCP管理工具�
 
 ### 3. [dsh-pocket](https://github.com/shaobeichen/dsh-pocket)
 
-⭐ 207 · JavaScript · 更新于 2026-08-19
+⭐ 208 · JavaScript · 更新于 2026-08-19
 
 暂无项目简介。
 
@@ -873,7 +873,7 @@ DSH Web UI plugin: skill and MCP management（Web界面的skill/MCP管理工具�
 
 ### 2. [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui)
 
-⭐ 4,813 · TypeScript · 更新于 2026-08-19
+⭐ 4,815 · TypeScript · 更新于 2026-08-19
 
 暂无项目简介。
 
@@ -897,7 +897,7 @@ DSH Web UI plugin: skill and MCP management（Web界面的skill/MCP管理工具�
 
 ### 5. [DSH-Transparent-UI-Plugin](https://github.com/WYH66666666/DSH-Transparent-UI-Plugin)
 
-⭐ 317 · JavaScript · 更新于 2026-08-19
+⭐ 318 · JavaScript · 更新于 2026-08-19
 
 暂无项目简介。
 
@@ -920,7 +920,7 @@ DSH Web UI plugin: skill and MCP management（Web界面的skill/MCP管理工具�
 
 ### 1. [ollama](https://github.com/ollama/ollama)
 
-⭐ 178,954 · Go · 更新于 2026-08-19
+⭐ 178,956 · Go · 更新于 2026-08-19
 
 暂无项目简介。
 
@@ -928,7 +928,7 @@ DSH Web UI plugin: skill and MCP management（Web界面的skill/MCP管理工具�
 
 ### 2. [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
 
-⭐ 104,339 · Python · 更新于 2026-08-19
+⭐ 104,340 · Python · 更新于 2026-08-19
 
 暂无项目简介。
 
@@ -1002,7 +1002,7 @@ DSH Web UI plugin: skill and MCP management（Web界面的skill/MCP管理工具�
 
 ### 12. [codex-router](https://github.com/duolahypercho/codex-router)
 
-⭐ 2,526 · JavaScript · 更新于 2026-08-19
+⭐ 2,527 · JavaScript · 更新于 2026-08-19
 
 暂无项目简介。
 
@@ -1020,7 +1020,7 @@ DSH Web UI plugin: skill and MCP management（Web界面的skill/MCP管理工具�
 
 ⭐ 80 · JavaScript · 更新于 2026-08-19
 
-用以解决DEEPSEEK思维链混乱,提高性能的插件
+暂无项目简介。
 
 ---
 
