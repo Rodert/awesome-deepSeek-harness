@@ -19,7 +19,7 @@
 - [主題與外觀](#themes)
 - [其他專案](#other)
 
-> 專案數：**222** · 最後更新：**2026-10-13**
+> 專案數：**223** · 最後更新：**2026-10-13**
 
 ## 自動更新
 
@@ -1036,6 +1036,14 @@ DSH Web 选中批注插件：选文字→批注→回车随消息发送；气泡
 A meticulously curated list of useful plugins, extensions, tools and development resources built for DSH, covering productivity enhancement, functional expansion, debugging utilities and custom development modules.
 
 標籤: `agents` `awesome` `awesome-list` `deepseek` `dsh-plugin` `plugins`
+
+### 130. [dsh-version-guard](https://github.com/skyjjgw/dsh-version-guard)
+
+⭐ 1 · JavaScript · 更新於 2026-10-13
+
+记录插件版本与 profile 配置快照，在 DSH 无法启动时通过独立恢复页回退到已知可用配置。
+
+標籤: `cordis` `cordis-plugin` `deepseek-harness` `dsh` `dsh-plugin` `plugin` `recovery` `rollback`
 
 ---
 

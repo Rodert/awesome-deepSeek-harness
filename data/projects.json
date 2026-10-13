@@ -5296,6 +5296,31 @@
       "archived": false,
       "category": "themes",
       "source": "github-search"
+    },
+    {
+      "name": "dsh-version-guard",
+      "full_name": "skyjjgw/dsh-version-guard",
+      "url": "https://github.com/skyjjgw/dsh-version-guard",
+      "description": "Snapshots plugin versions and profile configuration, with an independent recovery page to restore a known-good configuration when DSH cannot start.",
+      "description_zh": "记录插件版本与 profile 配置快照，在 DSH 无法启动时通过独立恢复页回退到已知可用配置。",
+      "stars": 1,
+      "language": "JavaScript",
+      "topics": [
+        "cordis",
+        "cordis-plugin",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "plugin",
+        "recovery",
+        "rollback",
+        "snapshot"
+      ],
+      "updated_at": "2026-10-13T15:37:21Z",
+      "created_at": "2026-10-13T07:54:20Z",
+      "archived": false,
+      "category": "plugins",
+      "source": "curated"
     }
   ]
 }
