@@ -19,7 +19,7 @@ GitHub のプロジェクト情報を自動更新し、人手で整理した説�
 - [テーマとスキン](#themes)
 - [その他](#other)
 
-> プロジェクト数：**222** · 最終更新：**2026-10-13**
+> プロジェクト数：**223** · 最終更新：**2026-10-13**
 
 ## 自動更新
 
@@ -1036,6 +1036,14 @@ DSH Web 选中批注插件：选文字→批注→回车随消息发送；气泡
 A meticulously curated list of useful plugins, extensions, tools and development resources built for DSH, covering productivity enhancement, functional expansion, debugging utilities and custom development modules.
 
 タグ: `agents` `awesome` `awesome-list` `deepseek` `dsh-plugin` `plugins`
+
+### 130. [dsh-version-guard](https://github.com/skyjjgw/dsh-version-guard)
+
+⭐ 1 · JavaScript · 更新 2026-10-13
+
+Snapshots plugin versions and profile configuration, with an independent recovery page to restore a known-good configuration when DSH cannot start.
+
+タグ: `cordis` `cordis-plugin` `deepseek-harness` `dsh` `dsh-plugin` `plugin` `recovery` `rollback`
 
 ---
 

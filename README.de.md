@@ -19,7 +19,7 @@ Online ansehen：[GitHub Pages](https://rodert.github.io/awesome-deepSeek-harnes
 - [Themes und Skins](#themes)
 - [Weitere Projekte](#other)
 
-> Projekte：**222** · Zuletzt aktualisiert：**2026-10-13**
+> Projekte：**223** · Zuletzt aktualisiert：**2026-10-13**
 
 ## Automatische Updates
 
@@ -1036,6 +1036,14 @@ Tags: `ai-agent` `chinese` `cordis` `deepseek` `deepseek-harness` `dsh` `dsh-plu
 A meticulously curated list of useful plugins, extensions, tools and development resources built for DSH, covering productivity enhancement, functional expansion, debugging utilities and custom development modules.
 
 Tags: `agents` `awesome` `awesome-list` `deepseek` `dsh-plugin` `plugins`
+
+### 130. [dsh-version-guard](https://github.com/skyjjgw/dsh-version-guard)
+
+⭐ 1 · JavaScript · Aktualisiert 2026-10-13
+
+Snapshots plugin versions and profile configuration, with an independent recovery page to restore a known-good configuration when DSH cannot start.
+
+Tags: `cordis` `cordis-plugin` `deepseek-harness` `dsh` `dsh-plugin` `plugin` `recovery` `rollback`
 
 ---
 
