@@ -19,7 +19,7 @@ GitHub のプロジェクト情報を自動更新し、人手で整理した説�
 - [テーマとスキン](#themes)
 - [その他](#other)
 
-> プロジェクト数：**256** · 最終更新：**2026-11-01**
+> プロジェクト数：**257** · 最終更新：**2026-11-01**
 
 ## 自動更新
 
@@ -1198,6 +1198,14 @@ DSH Web 选中批注插件：选文字→批注→回车随消息发送；气泡
 A meticulously curated list of useful plugins, extensions, tools and development resources built for DSH, covering productivity enhancement, functional expansion, debugging utilities and custom development modules.
 
 タグ: `agents` `awesome` `awesome-list` `deepseek` `dsh-plugin` `plugins`
+
+### 151. [solopup-memory](https://github.com/OakcoderX/solopup-memory)
+
+⭐ 1 · JavaScript · 更新 2026-11-01
+
+Source-linked personal and project text memory for DeepSeek Harness; MIT public beta.
+
+タグ: `deepseek-harness` `dsh-plugin` `agent-memory` `project-memory` `provenance`
 
 ---
 

@@ -19,7 +19,7 @@
 - [主題與外觀](#themes)
 - [其他專案](#other)
 
-> 專案數：**256** · 最後更新：**2026-11-01**
+> 專案數：**257** · 最後更新：**2026-11-01**
 
 ## 自動更新
 
@@ -1198,6 +1198,14 @@ DSH Web 选中批注插件：选文字→批注→回车随消息发送；气泡
 A meticulously curated list of useful plugins, extensions, tools and development resources built for DSH, covering productivity enhancement, functional expansion, debugging utilities and custom development modules.
 
 標籤: `agents` `awesome` `awesome-list` `deepseek` `dsh-plugin` `plugins`
+
+### 151. [solopup-memory](https://github.com/OakcoderX/solopup-memory)
+
+⭐ 1 · JavaScript · 更新於 2026-11-01
+
+DSH 原生文字记忆插件，保存项目决定与工作偏好，保留原话来源、适用条件和修订历史；MIT 公开测试版。
+
+標籤: `deepseek-harness` `dsh-plugin` `agent-memory` `project-memory` `provenance`
 
 ---
 

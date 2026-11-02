@@ -19,7 +19,7 @@ Online ansehen：[GitHub Pages](https://rodert.github.io/awesome-deepSeek-harnes
 - [Themes und Skins](#themes)
 - [Weitere Projekte](#other)
 
-> Projekte：**256** · Zuletzt aktualisiert：**2026-11-01**
+> Projekte：**257** · Zuletzt aktualisiert：**2026-11-01**
 
 ## Automatische Updates
 
@@ -1198,6 +1198,14 @@ Tags: `ai-agent` `chinese` `cordis` `deepseek` `deepseek-harness` `dsh` `dsh-plu
 A meticulously curated list of useful plugins, extensions, tools and development resources built for DSH, covering productivity enhancement, functional expansion, debugging utilities and custom development modules.
 
 Tags: `agents` `awesome` `awesome-list` `deepseek` `dsh-plugin` `plugins`
+
+### 151. [solopup-memory](https://github.com/OakcoderX/solopup-memory)
+
+⭐ 1 · JavaScript · Aktualisiert 2026-11-01
+
+Source-linked personal and project text memory for DeepSeek Harness; MIT public beta.
+
+Tags: `deepseek-harness` `dsh-plugin` `agent-memory` `project-memory` `provenance`
 
 ---
 

@@ -6091,6 +6091,27 @@
       "archived": false,
       "category": "themes",
       "source": "github-search"
+    },
+    {
+      "name": "solopup-memory",
+      "full_name": "OakcoderX/solopup-memory",
+      "url": "https://github.com/OakcoderX/solopup-memory",
+      "description_zh": "DSH 原生文字记忆插件，保存项目决定与工作偏好，保留原话来源、适用条件和修订历史；MIT 公开测试版。",
+      "description": "Source-linked personal and project text memory for DeepSeek Harness; MIT public beta.",
+      "category": "plugins",
+      "stars": 1,
+      "language": "JavaScript",
+      "topics": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "agent-memory",
+        "project-memory",
+        "provenance"
+      ],
+      "archived": false,
+      "source": "curated",
+      "updated_at": "2026-11-01T04:04:53Z",
+      "created_at": "2026-10-31T02:17:44Z"
     }
   ]
 }
